@@ -15,7 +15,12 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 
 <details id=2 closed>
+  
 <summary><h2>Welcome to SDMO</h2></summary>
+
+- [ ] Unchecked item  
+- [x] Checked item  
+
 
  ```yml 
  theme: minima
