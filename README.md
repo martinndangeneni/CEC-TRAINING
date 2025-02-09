@@ -35,8 +35,17 @@ LogIn to System
          - **Engagement about Demission**
      - Records with financial implication, e.g., Sales Invoice, are integrated with Intacct.
 
-## Module Organization
+## Intergration with Intacct
 
+   - **Immediate Posting**: Invoices / Credit Memo 
+   - **Scheduled Posting - Job Schedules**: Generated and Posted at Intervals (12h00 & 00h00)
+   - **Manual Posting** - Manual Human Entry Generation
+
+## Adding Users & Understanding Roles 
+   - **Users**
+   - **Roles**
+   - **Authorisation Group**
+   - **site Groups**
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
