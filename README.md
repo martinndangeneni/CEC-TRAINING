@@ -16,8 +16,17 @@ LogIn to System
  https://prd1.eu.erp.sage.com/
 ```
 
-- [ ] Unchecked item  
-- [x] Checked item  
+## Landing Page
+
+- **Header**
+
+   - [x] Current Company & Selection
+   - [x] Notification (Invoices/Jornals - Errors/Success, Release Notes, More)
+   - [x] Help Center (Documentation)
+   - [x] User Preferences
+
+ - **Dashboard**
+ - **Navigating the Sidebar (Modules)**
 
 
 
