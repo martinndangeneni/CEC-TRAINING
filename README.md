@@ -1,8 +1,25 @@
-<details id=0 open>
+<header>
+
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
+
+# GitHub Pages
+
+_Create a site or blog from your GitHub repositories with GitHub Pages._
+
+</header>
+
+
+<details id=2 closed>
 <summary><h2>Welcome to SDMO</h2></summary>
 
  ```yml 
- theme: minima ```
+ theme: minima
+```
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
@@ -34,20 +51,7 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 
 
 
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
 
 <!--
   <<< Author notes: Step 2 >>>
