@@ -1,3 +1,67 @@
+
+
+# SDMO System Training - Session 1: System Navigation & Basics
+
+<details>
+<summary>Getting Started</summary>
+
+### Login & Company Selection
+- When you first log into SDMO, you'll need to select your working company from the dropdown menu at the top of the screen. This is crucial as all transactions and records will be associated with the selected company. Remember to verify your selected company before performing any operations to ensure data accuracy.
+
+### Understanding the Notification Center
+- The Notification Center, accessible from the top navigation bar, serves as your central hub for system alerts, updates, and important messages. You'll receive notifications for events like completed integrations, successful journal postings, and any system-related announcements. Check this regularly to stay informed about system activities and potential issues that need your attention.
+
+### Help Guide Access
+- The comprehensive Help Guide can be accessed via the "?" icon in the top-right corner. It contains detailed documentation, step-by-step tutorials, and troubleshooting guides. Take time to familiarize yourself with this resource as it will be invaluable for self-service support and learning advanced features.
+</details>
+
+## System Structure
+
+### Navigating the Sidebar
+- The sidebar contains all available modules organized by function. Each module represents a distinct business process or operation area. Key modules include:
+  - Accounts Receivable
+  - Accounts Payable
+  - General Ledger
+  - Financial Reports
+  - System Administration
+
+### Module Organization
+- Within each module, you'll find related objects and documents. For example, in the Accounts Receivable module, you'll see objects like Customers, Invoices, and Payments. Each object serves as a template for creating specific types of records and managing related data.
+
+### Document Flow
+- Documents are the foundation of record creation in SDMO. When you create a document (such as an invoice), it generates a corresponding record in the system. This record contains all relevant information and can be tracked, modified, and referenced throughout its lifecycle.
+
+## Integration with Sage Intacct
+
+### Journal Generation
+- SDMO automatically creates journal entries in Sage Intacct based on transactions processed in the system. This integration ensures accounting records remain synchronized between both systems. The process follows these steps:
+  1. Transaction created in SDMO
+  2. System validates the transaction data
+  3. Journal entry automatically generated
+  4. Entry posted to Sage Intacct
+
+### Invoice Integration
+- When invoices are created in SDMO, they are automatically synchronized with Sage Intacct. This integration includes:
+  - Real-time invoice creation in both systems
+  - Automatic updating of customer balances
+  - Synchronized payment tracking
+  - Matching transaction references across both platforms
+
+## Best Practices
+
+### Regular Monitoring
+- Check the Notification Center daily for important updates
+- Verify company selection before starting work
+- Review generated journals for accuracy
+- Monitor integration status for any failed synchronizations
+
+### Documentation
+- Keep the Help Guide readily accessible
+- Document any custom processes specific to your organization
+- Maintain records of any integration issues for troubleshooting
+
+
+
 <header>
 
 # CEC SDMO TRAINING (2 Days Training)
