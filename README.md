@@ -33,6 +33,7 @@ LogIn to System
      - Each Module has objects / documents e.g Sale Module has a Customer, Sales Order, Sales Invoice, etc documents/object
      - Each object / documents creates records (Demo of Records Page)
          - **Engagement about Demission**
+           1. Structure / Company - Business Entinty - Site - Demission (Department, Channel, Class)
      - Records with financial implication, e.g., Sales Invoice, are integrated with Intacct.
 
 ## Intergration with Intacct
@@ -46,6 +47,8 @@ LogIn to System
    - **Roles**
    - **Authorisation Group**
    - **site Groups**
+
+     
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
