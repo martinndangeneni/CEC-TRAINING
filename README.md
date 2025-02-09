@@ -13,7 +13,7 @@ _Getting Started with SDMO_
 LogIn to System
 
  ```text 
- theme: minima
+ https://prd1.eu.erp.sage.com/
 ```
 
 - [ ] Unchecked item  
