@@ -32,10 +32,10 @@ LogIn to System
 
      - Each Module has objects / documents e.g Sale Module has a Customer, Sales Order, Sales Invoice, etc documents/object
      - Each object / documents creates records (Demo of Records Page)
-         - **Engement about Demissions**
-     - Records with finanacial implaction e.g Sale Invoice are intergrated with intacct
+         - **Engagement about Demission**
+     - Records with financial implication, e.g., Sales Invoice, are integrated with Intacct.
 
-
+## Module Organization
 
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
