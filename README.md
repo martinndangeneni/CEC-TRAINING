@@ -28,6 +28,13 @@ LogIn to System
  - **Dashboard**
  - **Navigating the Sidebar (Modules)**
 
+## Module Organization
+
+     - Each Module has objects / documents e.g Sale Module has a Customer, Sales Order, Sales Invoice, etc documents/object
+     - Each object / documents creates records (Demo of Records Page)
+         - **Engement about Demissions**
+     - Records with finanacial implaction e.g Sale Invoice are intergrated with intacct
+
 
 
 
